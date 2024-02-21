@@ -1,0 +1,36 @@
+.register-block {
+  float: left;
+  width: 100%;
+}
+
+.container {
+  background: #ebe6e6;
+  border-radius: 10px;
+  width: 40%;
+  height: 100%;
+}
+.register-sec {
+  padding: 50px 30px;
+  position: relative;
+}
+.register-sec h2 {
+  margin-bottom: 30px;
+  font-weight: 800;
+  font-size: 30px;
+  color: #0069c0;
+}
+
+.btn-login {
+  background: #0069c0;
+  color: #fff;
+  font-weight: 600;
+}
+.imagelogo
+{
+    position: relative;
+    left:200px;
+}
+.text-center{
+    position: relative;
+    color: #ebe6e6;
+}
